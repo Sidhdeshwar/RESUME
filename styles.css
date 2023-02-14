@@ -2,10 +2,14 @@
 /* !Most Outer DIV */
 .most-outer{
     border: 2px solid;
+    width: 80%;
+    margin: auto;
+
     
 }
 .sub-outer{
     margin: 10px 10px 10px 10px;
+
 }
 .container {
     /* background-color: rgb(219, 144, 144); */
@@ -147,19 +151,24 @@
     text-align: center; 
 }
 .java{
-    margin-right: 20px;
+    /* margin-right: 20px; */
+    width: 80%;
 }
 .spring{
-    margin-right: 70px;
+    /* margin-right: 70px; */
+    width: 60%;
 }
 .SQL{
-    margin-right: 90px;
+    /* margin-right: 50px; */
+    width: 55%;
 }
 .html{
-    margin-right: 30px;
+    /* margin-right: 30px; */
+    width: 70%;
 }
 .javascript{
-    margin-right: 70px;
+    /* margin-right: 70px; */
+    width: 60%;
 
 }
 .skill-padding-top{
