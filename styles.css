@@ -220,3 +220,12 @@
 .skill-per{
     text-align: center;
 }
+.paragraph-alignment{
+    text-align: justify;
+}
+.address-text{
+    /* text-align: center; */
+    /* justify-content: center; */
+    display: grid;
+    grid-template-columns: 1fr 5fr;
+}
