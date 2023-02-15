@@ -215,3 +215,8 @@
 .final-it-name-padding{
     margin-left: 10px;
 }
+
+/* *Skill Percentage Bar */
+.skill-per{
+    text-align: center;
+}
